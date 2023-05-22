@@ -1,0 +1,26 @@
+{
+  "name": "jejakin-backend-test-log-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npx tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryomujahid/jejakin-backend-test-log-search.git"
+  },
+  "author": "suryomujahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryomujahid/jejakin-backend-test-log-search/issues"
+  },
+  "homepage": "https://github.com/suryomujahid/jejakin-backend-test-log-search#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.3"
+  }
+}
